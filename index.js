@@ -1,5 +1,4 @@
-const x = 10; 
-
+//comentario de ejemplo
 function suma(a, b) {
   return a + b;
 }
